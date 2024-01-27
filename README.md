@@ -23,7 +23,7 @@
 
 ### 💻 Environment 
 
-[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10) 
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows/) 
 
 [![iOS](https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/ios) 
 
