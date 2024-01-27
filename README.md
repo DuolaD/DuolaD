@@ -1,5 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/110040721?v=4" width="70" style="border-radius: 50%" alt="DuolaD">
 
+**EN**|[简体中文](Readme.Chinese_Simplified.md)|[繁體中文](Readme.Chinese_Traditional.md)  
+
 ## Hi there 👋 I'm 哆啦D夢|DuolaD,Welcome to my GitHub profile!
 
 <div align="center">Good at:<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-EE4C2C.svg?logo=Python" /></a> <a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus" /></a>
@@ -19,12 +21,16 @@
   <a><img src="https://github-readme-stats.vercel.app/api?username=DuolaD&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" /></a>
 </a>
 
-<div align="left">
+<div align="center">
 
 ### 💻 Environment 
 
-[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows/) 
+<a href="#">
+  <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF"/></a>
+  <a href="https://www.apple.com/ios"><img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=FFFFFF&labelColor=000000"/></a>
+  <a href="https://www.android.com/android-14/"><img src="https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000"/></a>
+</a>
 
-[![iOS](https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=FFFFFF&labelColor=000000)](https://www.apple.com/ios) 
+### 💰 Buy me a coffee 
 
-[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-14/) 
+<div align="center"><p><span ><a href="https://patreon.com/DuolaD"><img src="https://img.shields.io/badge/Patreon-000000.svg?logo=patreon" /></a> <a href="https://afdian.net/a/DuolaD"><img src="https://img.shields.io/badge/Afdian-a47ef7.svg?logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcwN//AABEIACAAIAMBIgACEQEDEQH/xAAZAAEBAAMBAAAAAAAAAAAAAAAFBAEDBgD/xAAqEAACAQIFAQcFAAAAAAAAAAABAgMABAUREiExcRMUIjJBYcEGQlGx8P/EABYBAQEBAAAAAAAAAAAAAAAAAAEDBv/EABsRAAMAAgMAAAAAAAAAAAAAAAABAhEhAxJB/9oADAMBAAIRAxEAPwBq2hnunKW8TyMNzpHHWsXMU1rM0NwhSReVPpW7CMYbDw6ZNodg2pMtSkexBB/uKVVJbq2a+hntEhJOclzZRrv1ANaKuSpra0Wyc/rr2uq5sQt2mMc0MNxDx2scIhfqMvmpb6Hu0oCv2kTqHjfLLUp+eR1FUVZ00IfrpbGXdFjjRD3HSptmU+Hjc+7fnPegtdUWuI3VoCLa4kjVvMoOx6jg01LbTQm2GJ7iSOK1V5ZXG6heDn+sst6U+oY7SGO1S0ukl7FTEUVg33Fs8x7sfQcUVNjF9NGYnuXEbeZE8IPUDmo9dHWnSb8DB//Z" /></a> <a href="https://www.paypal.com/paypalme/Dmou114514233"><img src="https://img.shields.io/badge/PayPal-003087.svg?logo=paypal" /></a> <img src="https://img.shields.io/badge/Wechat_Pay-07C160.svg?logo=wechat" /> <img src="https://img.shields.io/badge/Alipay-1677FF.svg?logo=alipay" /> </span></p></a>
