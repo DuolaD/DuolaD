@@ -33,7 +33,7 @@ But, hey don't be discouraged, the story has just begun.
 ## About me.  
 - Small Hong Kong residents Geek.
 - Brother and sister(哆啦D夢|DuolaD & [琳妮特|LynetteNotFound](https://github.com/LynetteNotFound))
-- HS&ZHT&EN
+- ZHS&ZHT&EN
 
 <div align="center">
 
