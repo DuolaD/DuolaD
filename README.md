@@ -31,7 +31,7 @@ But, hey don't be discouraged, the story has just begun.
 <div align="left">
 
 ## About me.  
-- Small Hong Kong residents Geek.
+- No Name Geek in Hong Kong,SAR,China.
 - Brother and sister(哆啦D夢|DuolaD & [琳妮特|LynetteNotFound](https://github.com/LynetteNotFound))
 - ZHS&ZHT&EN
 
