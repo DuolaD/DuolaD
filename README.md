@@ -1,6 +1,16 @@
-<img src="https://avatars.githubusercontent.com/u/110040721?v=4" width="70" style="border-radius: 50%" alt="DuolaD">
+<div align="center">
+  <h1 class="header">哆啦D夢|DuolaD</h1>
+  <h3>
+    Better? Worse?
+  </h3>
+
+![Compressed](Readme.md-image/Compressed.png)
+
+Source:[Pixiv@0112](https://www.pixiv.net/artworks/118882386) 
 
 **EN**|[简体中文](Readme.Chinese_Simplified.md)|[繁體中文](Readme.Chinese_Traditional.md)  
+
+</div>
 
 ## Hi there 👋 I'm 哆啦D夢|DuolaD,Welcome to my GitHub profile!
 
@@ -19,7 +29,7 @@ But, hey don't be discouraged, the story has just begun.
 
  **Click the button to contact me:**
   
-<div align="center"><p><span ><a href="https://discordapp.com/users/960705009866137631"><img src="https://img.shields.io/badge/Discord-Available-5865F2.svg?logo=discord" /></a> <a href="https://www.douyin.com/user/MS4wLjABAAAAGUohNGixQiCHKSoHJy0Ae6WS3R7pMd7lSfi5O4A9zH7gdcEd4JEX787i-RFNH257"><img src="https://img.shields.io/badge/抖音-Available-000000.svg?logo=tiktok" /></a> <a href="https://t.me/D_mou"><img src="https://img.shields.io/badge/Telegram-Available-26A5E4.svg?logo=telegram" /></a> <a href="https://qm.qq.com/q/njKy8OrUU8"><img src="https://img.shields.io/badge/QQ-Available-EB1923.svg?logo=tencentqq" /> </span></p></a>
+<div align="center"><p><span ><a href="https://discordapp.com/users/960705009866137631"><img src="https://img.shields.io/badge/Discord-Available-5865F2.svg?logo=discord" /></a> <a href="https://www.douyin.com/user/MS4wLjABAAAAGUohNGixQiCHKSoHJy0Ae6WS3R7pMd7lSfi5O4A9zH7gdcEd4JEX787i-RFNH257"><img src="https://img.shields.io/badge/抖音-Available-000000.svg?logo=tiktok" /></a> <a href="https://t.me/GitHub_DuolaD"><img src="https://img.shields.io/badge/Telegram-Available-26A5E4.svg?logo=telegram" /></a> <a href="https://qm.qq.com/q/njKy8OrUU8"><img src="https://img.shields.io/badge/QQ-Available-EB1923.svg?logo=tencentqq" /> </span></p></a>
 
 <div align="left">
 
