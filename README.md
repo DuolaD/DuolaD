@@ -29,7 +29,7 @@ But, hey don't be discouraged, the story has just begun.
 
  **Click the button to contact me:**
   
-<div align="center"><p><span ><a href="https://discordapp.com/users/960705009866137631"><img src="https://img.shields.io/badge/Discord-Available-5865F2.svg?logo=discord" /></a> <a href="https://www.douyin.com/user/MS4wLjABAAAAGUohNGixQiCHKSoHJy0Ae6WS3R7pMd7lSfi5O4A9zH7gdcEd4JEX787i-RFNH257"><img src="https://img.shields.io/badge/抖音-Available-000000.svg?logo=tiktok" /></a> <a href="https://t.me/GitHub_DuolaD"><img src="https://img.shields.io/badge/Telegram-Available-26A5E4.svg?logo=telegram" /></a> <a href="https://qm.qq.com/q/njKy8OrUU8"><img src="https://img.shields.io/badge/QQ-Available-EB1923.svg?logo=tencentqq" /> </span></p></a>
+<div align="center"><p><span ><a href="https://discordapp.com/users/960705009866137631"><img src="https://img.shields.io/badge/Discord-FFFFFF.svg?logo=discord" /></a> <a href="https://www.douyin.com/user/MS4wLjABAAAAGUohNGixQiCHKSoHJy0Ae6WS3R7pMd7lSfi5O4A9zH7gdcEd4JEX787i-RFNH257"><img src="https://img.shields.io/badge/抖音-000000.svg?logo=tiktok" /></a> <a href="https://t.me/GitHub_DuolaD"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram" /></a> <a href="https://qm.qq.com/q/njKy8OrUU8"><img src="https://img.shields.io/badge/QQ-EB1923.svg?logo=tencentqq" /> </span></p></a>
 
 <div align="left">
 
@@ -57,4 +57,4 @@ But, hey don't be discouraged, the story has just begun.
 
 ### 💰 Buy me a coffee 
 
-<div align="center"><p><span ><a href="https://patreon.com/DuolaD"><img src="https://img.shields.io/badge/Patreon-000000.svg?logo=patreon" /></a> <a href="https://www.paypal.com/paypalme/Dmou114514233"><img src="https://img.shields.io/badge/PayPal-003087.svg?logo=paypal" /></a> <a href="WechatDonateCode.JPG"><img src="https://img.shields.io/badge/Wechat_Pay-07C160.svg?logo=wechat&logoColor=white" /></a> <a href="AirPayDonateCode.png"><img src="https://img.shields.io/badge/Alipay-1677FF.svg?logo=alipay&logoColor=white" /> </span></p></a>
+<div align="center"><p> <a href="https://www.paypal.com/paypalme/Dmou114514233"><img src="https://img.shields.io/badge/PayPal-003087.svg?logo=paypal" /></a> <a href="WechatDonateCode.JPG"><img src="https://img.shields.io/badge/Wechat_Pay-07C160.svg?logo=wechat&logoColor=white" /></a> <a href="AirPayDonateCode.png"><img src="https://img.shields.io/badge/Alipay-1677FF.svg?logo=alipay&logoColor=white" /> </span></p></a>
