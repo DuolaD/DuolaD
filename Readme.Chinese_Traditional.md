@@ -1,6 +1,16 @@
-<img src="https://avatars.githubusercontent.com/u/110040721?v=4" width="70" style="border-radius: 50%" alt="DuolaD">
+<div align="center">
+  <h1 class="header">哆啦D夢|DuolaD</h1>
+  <h3>
+    環此世之安，隕為彼世之悲
+  </h3>
+
+![Compressed](Readme.md-image/Compressed.png)
+
+封面:[Pixiv@0112](https://www.pixiv.net/artworks/118882386) 
 
 [EN](README.md)|[简体中文](Readme.Chinese_Simplified.md)|**繁體中文**
+
+</div>
 
 ## 你好👋 我是 哆啦D夢|DuolaD,歡迎你來到我的GitHub個人主頁！
 
@@ -18,7 +28,7 @@
 
  **點擊對應按鈕來聯繫我：**
   
-<div align="center"><p><span ><a href="https://discordapp.com/users/960705009866137631"><img src="https://img.shields.io/badge/Discord-可用-5865F2.svg?logo=discord" /></a>  <a href="https://www.douyin.com/user/MS4wLjABAAAAGUohNGixQiCHKSoHJy0Ae6WS3R7pMd7lSfi5O4A9zH7gdcEd4JEX787i-RFNH257"><img src="https://img.shields.io/badge/抖音-可用-000000.svg?logo=tiktok" /></a> <a href="https://t.me/D_mou"><img src="https://img.shields.io/badge/Telegram-可用-26A5E4.svg?logo=telegram" /></a> <a href="https://qm.qq.com/q/njKy8OrUU8"><img src="https://img.shields.io/badge/QQ-可用-EB1923.svg?logo=tencentqq" /> </span></p></a>
+<div align="center"><p><span ><a href="https://discordapp.com/users/960705009866137631"><img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord" /></a>  <a href="https://www.douyin.com/user/MS4wLjABAAAAGUohNGixQiCHKSoHJy0Ae6WS3R7pMd7lSfi5O4A9zH7gdcEd4JEX787i-RFNH257"><img src="https://img.shields.io/badge/抖音-000000.svg?logo=tiktok" /></a> <a href="https://t.me/GitHub_DuolaD"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram" /></a> <a href="https://qm.qq.com/q/njKy8OrUU8"><img src="https://img.shields.io/badge/QQ-EB1923.svg?logo=tencentqq" /> </span></p></a>
 
 <div align="left">
 
