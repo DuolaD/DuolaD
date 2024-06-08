@@ -6,7 +6,7 @@
 
 ![Compressed](Readme.md-image/Compressed.png)
 
-Source:[Pixiv@0112](https://www.pixiv.net/artworks/118882386) 
+封面:[Pixiv@0112](https://www.pixiv.net/artworks/118882386) 
 
 [EN](README.md)|**简体中文**|[繁體中文](Readme.Chinese_Traditional.md)  
 
@@ -28,7 +28,7 @@ Source:[Pixiv@0112](https://www.pixiv.net/artworks/118882386)
 
  **点击对应按钮来联系我：**
 
-<div align="center"><p><span ><a href="https://discordapp.com/users/960705009866137631"><img src="https://img.shields.io/badge/Discord-可用-5865F2.svg?logo=discord" /></a> <a href="https://www.douyin.com/user/MS4wLjABAAAAGUohNGixQiCHKSoHJy0Ae6WS3R7pMd7lSfi5O4A9zH7gdcEd4JEX787i-RFNH257"><img src="https://img.shields.io/badge/抖音-可用-000000.svg?logo=tiktok" /></a> <a href="https://t.me/GitHub_DuolaD"><img src="https://img.shields.io/badge/Telegram-可用-26A5E4.svg?logo=telegram" /></a> <a href="https://qm.qq.com/q/njKy8OrUU8"><img src="https://img.shields.io/badge/QQ-可用-EB1923.svg?logo=tencentqq" /></span></p></a>
+<div align="center"><p><span ><a href="https://discordapp.com/users/960705009866137631"><img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord" /></a> <a href="https://www.douyin.com/user/MS4wLjABAAAAGUohNGixQiCHKSoHJy0Ae6WS3R7pMd7lSfi5O4A9zH7gdcEd4JEX787i-RFNH257"><img src="https://img.shields.io/badge/抖音-000000.svg?logo=tiktok" /></a> <a href="https://t.me/GitHub_DuolaD"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram" /></a> <a href="https://qm.qq.com/q/njKy8OrUU8"><img src="https://img.shields.io/badge/QQ-EB1923.svg?logo=tencentqq" /></span></p></a>
 
 <div align="left">
 
