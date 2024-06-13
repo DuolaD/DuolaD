@@ -47,6 +47,8 @@ But, hey don't be discouraged, the story has just begun.
 - Brother and sister(哆啦D夢|DuolaD & [琳妮特|LynetteNotFound](https://github.com/LynetteNotFound))
 - ZHS&ZHT&EN
 
+Compared to programming or something like that, Cosplay is more suitable for me.
+
 <div align="center">
 
 ### 💻 Environment 
