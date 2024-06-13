@@ -40,9 +40,13 @@
 <div align="left">
 
 ## 关于我  
+- DuolaDStudio Hong Kong Ltd. 创办者
+- 一位在广州的Coser(cn:D夢)
 - 无名港籍极客
 - 双子(哆啦D夢|DuolaD & [琳妮特|LynetteNotFound](https://github.com/LynetteNotFound))
 - 简体中文&繁体中文&英语
+
+比起编程什么的还是Cosplay更适合我。  
 
 <div align="center">
 
