@@ -46,6 +46,8 @@
 - 雙子(哆啦D夢|DuolaD & [琳妮特|LynetteNotFound](https://github.com/LynetteNotFound))  
 - 簡體中文&繁體中文&英語  
 
+比起程式設計什麼的還是Cosplay更適合我。
+
 <div align="center">
 
 ### 💻 環境  
