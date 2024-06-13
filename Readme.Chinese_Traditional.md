@@ -40,6 +40,8 @@
 <div align="left">
 
 ## 關於我  
+- DuolaDStudio Hong Kong Ltd. 創辦者
+- 一位在廣州的Coser(cn:D夢)
 - 無名港籍極客  
 - 雙子(哆啦D夢|DuolaD & [琳妮特|LynetteNotFound](https://github.com/LynetteNotFound))  
 - 簡體中文&繁體中文&英語  
