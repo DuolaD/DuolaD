@@ -44,7 +44,7 @@ But, hey don't be discouraged, the story has just begun.
 ## About me.  
 - DuolaDStudio Hong Kong Ltd. Founder
 - Coser in GuangZhou(cn:D夢)
-- No Name Geek in Hong Kong,SAR,China.
+- A small Geek in Hong Kong,SAR,China.
 - Brother and sister(哆啦D夢|DuolaD & [琳妮特|LynetteNotFound](https://github.com/LynetteNotFound))
 - ZHS&ZHT&EN
 
