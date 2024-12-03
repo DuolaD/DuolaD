@@ -34,7 +34,6 @@
 
 <div align="center">
 <a href="#">
-  <a><img src="https://stats.deeptrain.net/user/DuolaD?theme=light"/></a>
   <a><img src="https://github-readme-stats.vercel.app/api?username=DuolaD&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" /></a>
 </a>
 
